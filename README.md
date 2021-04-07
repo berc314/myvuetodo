@@ -1,9 +1,24 @@
-# myvuetodo
-<!-- 
+# newtodo
 
-Ich habe die ToDo-Liste mit folgenden Anwendungen/Programmen geschrieben:
+## Project setup
+```
+npm install
+```
 
-@vue/cli 4.5.12
-Microsoft Visual Studio 2017 Version 15.9.34
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
--->
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
